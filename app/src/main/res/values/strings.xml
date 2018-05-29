@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="txtview_titulo">Ingresa tus datos</string>
+    <string name="txtview_user_nombre">Nombre</string>
+    <string name="txtview_user_apellidos">Apellidos</string>
+    <string name="txtview_user_email">Email</string>
+    <string name="txtview_user_contra">Contraseña</string>
+    <string name="txtview_user_btnregistrar">Registrar</string>
+    <string name="txtview_tituloSegundaActivity">Estos son los datos que ingresaste</string>
+</resources>
